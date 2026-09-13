@@ -1,0 +1,27 @@
+
+body{
+  background:#2B1A0E;
+}
+header {
+  background-color: #5A351A;
+  padding: 1rem;
+}
+h1 {
+text-align: center;
+    color:#F2C94C;
+    padding: 1rem;
+}
+h3 {
+  text-align: center;
+  color: #D35400;
+}
+body {
+  color:#FFF3D6;
+}
+main {
+  background-color:  #5A351A;
+ color: #FFF3D6;
+  
+}
+
+
